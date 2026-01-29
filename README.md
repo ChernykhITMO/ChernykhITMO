@@ -1,7 +1,5 @@
 ## Привет, я Arseniy 👋
 
-Backend-разработчик (Go)
-
 ### Стек
 - Go, gRPC
 - PostgreSQL, Redis
