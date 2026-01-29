@@ -1,16 +1,27 @@
-## Hi there 👋
+## Привет, я Arseniy 👋
 
-<!--
-**ChernykhITMO/ChernykhITMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-разработчик (Go)
 
-Here are some ideas to get you started:
+### Стек
+- Go, gRPC
+- PostgreSQL, Redis
+- Kafka
+- Docker, Docker Compose
+- Prometheus, Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Чем занимаюсь
+- Пишу backend-сервисы на Go
+- Проектирую API
+- Разбираюсь с асинхронными системами и очередями
+- Уделяю внимание качеству кода и архитектуре
+
+### Проекты
+- **[order-processing-platform](https://github.com/ChernykhITMO/order-processing-platform)** — микросервисная платформа обработки заказов  
+  Go, gRPC, Kafka, PostgreSQL, Redis, Docker, event-driven архитектура
+- **[ITMO-Shad-Go-2025](https://github.com/ChernykhITMO/ITMO-Shad-Go-2025)** — решения задач с курса «Язык Go — 2025» (Яндекс, ШАД)
+- **[trackly-backend](https://github.com/ChernykhITMO/trackly-backend)** — backend проекта Trackly
+
+
+### Контакты
+- Telegram: @chern_ars
+- Email: chernykharseniy18@mail.ru
