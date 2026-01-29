@@ -21,5 +21,5 @@
 
 
 ### Контакты
-- Telegram: @chern_ars
+- Telegram: [@chern_ars](https://t.me/chern_ars)
 - Email: chernykharseniy18@mail.ru
