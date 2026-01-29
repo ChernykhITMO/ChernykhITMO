@@ -1,7 +1,7 @@
 ## Привет, я Arseniy 👋
 
 ### Стек
-- Go, gRPC
+- Go, gRPC, REST
 - PostgreSQL, Redis
 - Kafka
 - Docker, Docker Compose
